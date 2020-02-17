@@ -1,0 +1,58 @@
+.connect {
+  background-color: rgb(231, 231, 231);
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.phone {
+  position: relative;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.nav {
+  position: absolute;
+  margin-top: 260px;
+  left: 145px;
+  width: 441px;
+  height: 620px;
+}
+
+.intro {
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+}
+
+.store {
+  margin-right: 20px;
+}
+
+.introducing {
+  font-weight: 600;
+  display: inline-block;
+  padding-bottom: 5px;
+  position: relative;
+  margin-bottom: -50px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  color: rgb(3, 3, 3);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.introducing::before {
+  content: "";
+  position: absolute;
+  width: 80px;
+  height: 10px;
+  bottom: 0;
+
+  border-bottom: 2px solid rgb(250, 171, 171);
+}
+
+.intotekst {
+  color: rgb(82, 80, 80);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
