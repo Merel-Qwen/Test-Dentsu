@@ -3,8 +3,8 @@ import { CarouselProvider, Slider, DotGroup, Slide } from "pure-react-carousel";
 import "pure-react-carousel/dist/react-carousel.es.css";
 import "./Slider.css";
 import review from "./review.png";
-import woman from "./woman.PNG";
-import woman2 from "./woman2.PNG";
+import woman from "./woman.png";
+import woman2 from "./woman2.png";
 
 export default class extends React.Component {
   render() {

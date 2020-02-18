@@ -1,3 +1,7 @@
+body {
+  width: 100%;
+}
+
 .slider {
   background: url(slider.png);
   height: 462px;

@@ -48,11 +48,10 @@ class GetStarted extends Component {
         {this.state.on && (
           <div className="toggle">
             <ul>
-              <li className="li"></li>
-              <li className="li"></li>
-              <li className="li"></li>
-              <li className="li"></li>
-              <li className="li"></li>
+              <li className="li">home</li>
+              <li className="li">Cuisines</li>
+              <li className="li">reviews</li>
+              <li className="li">Get the app</li>
             </ul>
           </div>
         )}

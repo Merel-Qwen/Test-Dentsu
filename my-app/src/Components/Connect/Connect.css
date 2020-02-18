@@ -2,26 +2,25 @@
   background-color: rgb(231, 231, 231);
   height: auto;
   display: flex;
-  flex-wrap: wrap;
 }
 
 .phone {
   position: relative;
-  margin-top: 100px;
-  margin-left: 100px;
+  margin-top: 80px;
+  margin-left: 80px;
 }
 
 .nav {
   position: absolute;
-  margin-top: 260px;
-  left: 145px;
+  margin-top: 240px;
+  left: 125px;
   width: 441px;
   height: 620px;
 }
 
 .intro {
-  margin-top: 100px;
-  margin-left: 200px;
+  margin-top: 130px;
+  margin-left: 100px;
   margin-bottom: 100px;
 }
 
