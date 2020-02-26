@@ -8,7 +8,7 @@ function Counter() {
         <CountUp
           className="countup"
           end={23.567}
-          duration={3}
+          duration={5}
           decimals={3}
           decimal=","
         ></CountUp>
@@ -18,7 +18,7 @@ function Counter() {
         <CountUp
           className="countup"
           end={(431, 729)}
-          duration={3}
+          duration={5}
           decimals={3}
           decimal=","
         ></CountUp>
@@ -28,7 +28,7 @@ function Counter() {
         <CountUp
           className="countup"
           end={892.173}
-          duration={3}
+          duration={5}
           decimals={3}
           decimal=","
         ></CountUp>
@@ -38,7 +38,7 @@ function Counter() {
         <CountUp
           className="countup"
           end={56.581}
-          duration={3}
+          duration={5}
           decimals={3}
           decimal=","
         ></CountUp>
@@ -48,7 +48,7 @@ function Counter() {
         <CountUp
           className="countup"
           end={3.182}
-          duration={3}
+          duration={5}
           decimals={3}
           decimal=","
         ></CountUp>

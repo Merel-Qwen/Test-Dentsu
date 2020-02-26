@@ -92,11 +92,16 @@ ul {
 
 .button {
   background-color: transparent;
+  opacity: 0.9;
   color: white;
   text-align: center;
   padding: 20px 68px;
   border: 2px solid white;
   font-size: 20px;
+}
+
+.button:hover {
+  background-color: rgb(223, 177, 177);
 }
 
 .send {
@@ -118,6 +123,9 @@ ul {
   justify-content: center;
   align-items: center;
 }
+.recipeItem:hover {
+  opacity: 0.9;
+}
 .recipeItem img {
   min-width: 100%;
   object-fit: cover;
@@ -127,11 +135,16 @@ ul {
   position: absolute;
   color: white;
 }
+
 .recipeContent h4 {
   margin-top: -15px;
   text-transform: uppercase;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
+}
+
+.recipeContent h4:hover {
+  font-size: 40px;
 }
 .recipeContent p {
   font-style: italic;
